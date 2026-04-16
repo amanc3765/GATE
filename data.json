@@ -205,5 +205,59 @@
     "score_max": 235,
     "state": "West Bengal",
     "year": 2023
+  },
+  {
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Microelectronics & VLSI",
+    "round": 1,
+    "score_min": 440,
+    "score_max": 448,
+    "state": "West Bengal",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Next Generation Communication and Networks",
+    "round": 1,
+    "score_min": 318,
+    "score_max": 389,
+    "state": "West Bengal",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Microelectronics & VLSI",
+    "round": 2,
+    "score_min": 385,
+    "score_max": 438,
+    "state": "West Bengal",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Next Generation Communication and Networks",
+    "round": 2,
+    "score_min": 306,
+    "score_max": 307,
+    "state": "West Bengal",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Microelectronics & VLSI",
+    "round": 3,
+    "score_min": 378,
+    "score_max": 378,
+    "state": "West Bengal",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Next Generation Communication and Networks",
+    "round": 3,
+    "score_min": 303,
+    "score_max": 303,
+    "state": "West Bengal",
+    "year": 2025
   }
 ]
