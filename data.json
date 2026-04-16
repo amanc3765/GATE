@@ -439,5 +439,50 @@
     "score_max": 276,
     "state": "Jharkhand",
     "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology, Jamshedpur",
+    "program": "VLSI and Embedded Systems Engineering",
+    "round": 1,
+    "score_min": 334,
+    "score_max": 338,
+    "state": "Jharkhand",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Jamshedpur",
+    "program": "Communication Systems Engineering",
+    "round": 1,
+    "score_min": 315,
+    "score_max": 323,
+    "state": "Jharkhand",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Jamshedpur",
+    "program": "Communication Systems Engineering",
+    "round": 2,
+    "score_min": 291,
+    "score_max": 295,
+    "state": "Jharkhand",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Jamshedpur",
+    "program": "VLSI and Embedded Systems Engineering",
+    "round": 2,
+    "score_min": 323,
+    "score_max": 327,
+    "state": "Jharkhand",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Jamshedpur",
+    "program": "VLSI and Embedded Systems Engineering",
+    "round": 3,
+    "score_min": 315,
+    "score_max": 323,
+    "state": "Jharkhand",
+    "year": 2025
   }
 ]
