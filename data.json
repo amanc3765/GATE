@@ -5,7 +5,8 @@
     "round": 1,
     "score_min": 301,
     "score_max": 322,
-    "state": "Odisha"
+    "state": "Odisha",
+    "year": 2024
   },
   {
     "institute": "National Institute of Technology, Rourkela",
@@ -13,7 +14,8 @@
     "round": 1,
     "score_min": 499,
     "score_max": 519,
-    "state": "Odisha"
+    "state": "Odisha",
+    "year": 2024
   },
   {
     "institute": "National Institute of Technology, Silchar",
@@ -21,7 +23,8 @@
     "round": 1,
     "score_min": 350,
     "score_max": 385,
-    "state": "Assam"
+    "state": "Assam",
+    "year": 2024
   },
   {
     "institute": "National Institute of Technology, Silchar",
@@ -29,7 +32,8 @@
     "round": 1,
     "score_min": 320,
     "score_max": 320,
-    "state": "Assam"
+    "state": "Assam",
+    "year": 2024
   },
   {
     "institute": "National Institute of Technology, Silchar",
@@ -37,7 +41,8 @@
     "round": 1,
     "score_min": 316,
     "score_max": 316,
-    "state": "Assam"
+    "state": "Assam",
+    "year": 2024
   },
   {
     "institute": "National Institute of Technology, Silchar",
@@ -45,7 +50,8 @@
     "round": 1,
     "score_min": 512,
     "score_max": 551,
-    "state": "Assam"
+    "state": "Assam",
+    "year": 2024
   },
   {
     "institute": "National Institute of Technology, Silchar",
@@ -53,7 +59,8 @@
     "round": 1,
     "score_min": 300,
     "score_max": 325,
-    "state": "Assam"
+    "state": "Assam",
+    "year": 2024
   },
   {
     "institute": "National Institute of Technology, Silchar",
@@ -61,7 +68,8 @@
     "round": 1,
     "score_min": 370,
     "score_max": 389,
-    "state": "Assam"
+    "state": "Assam",
+    "year": 2024
   },
   {
     "institute": "National Institute of Technology, Srinagar",
@@ -69,7 +77,8 @@
     "round": 1,
     "score_min": 266,
     "score_max": 266,
-    "state": "Jammu and Kashmir"
+    "state": "Jammu and Kashmir",
+    "year": 2024
   },
   {
     "institute": "National Institute of Technology, Srinagar",
@@ -77,7 +86,8 @@
     "round": 1,
     "score_min": 323,
     "score_max": 350,
-    "state": "Jammu and Kashmir"
+    "state": "Jammu and Kashmir",
+    "year": 2024
   },
   {
     "institute": "National Institute of Technology, Srinagar",
@@ -85,7 +95,8 @@
     "round": 1,
     "score_min": 322,
     "score_max": 322,
-    "state": "Jammu and Kashmir"
+    "state": "Jammu and Kashmir",
+    "year": 2024
   },
   {
     "institute": "National Institute of Technology, Srinagar",
@@ -93,7 +104,8 @@
     "round": 1,
     "score_min": 392,
     "score_max": 424,
-    "state": "Jammu and Kashmir"
+    "state": "Jammu and Kashmir",
+    "year": 2024
   },
   {
     "institute": "National Institute of Technology, Tiruchirappalli",
@@ -101,7 +113,8 @@
     "round": 1,
     "score_min": 511,
     "score_max": 638,
-    "state": "Tamil Nadu"
+    "state": "Tamil Nadu",
+    "year": 2024
   },
   {
     "institute": "National Institute of Technology, Tiruchirappalli",
@@ -109,7 +122,8 @@
     "round": 1,
     "score_min": 455,
     "score_max": 455,
-    "state": "Tamil Nadu"
+    "state": "Tamil Nadu",
+    "year": 2024
   },
   {
     "institute": "National Institute of Technology, Tiruchirappalli",
@@ -117,7 +131,8 @@
     "round": 1,
     "score_min": 481,
     "score_max": 510,
-    "state": "Tamil Nadu"
+    "state": "Tamil Nadu",
+    "year": 2024
   },
   {
     "institute": "National Institute of Technology, Tiruchirappalli",
@@ -125,6 +140,7 @@
     "round": 1,
     "score_min": 437,
     "score_max": 449,
-    "state": "Tamil Nadu"
+    "state": "Tamil Nadu",
+    "year": 2024
   }
 ]

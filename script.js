@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const filterMinScore = document.getElementById('filter-min-score');
     const filterMaxScore = document.getElementById('filter-max-score');
     const filterState = document.getElementById('filter-state');
+    const filterYear = document.getElementById('filter-year');
 
     // Fetch data
     fetch('data.json')
@@ -33,6 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <td>${row.institute}</td>
                 <td>${row.state}</td>
                 <td>${row.program}</td>
+                <td>${row.year}</td>
                 <td>${row.round}</td>
                 <td>${row.score_min}</td>
                 <td>${row.score_max}</td>
@@ -55,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Add listeners to filter inputs
         const filters = [
             filterInstitute, filterProgram, filterRound, 
-            filterMinScore, filterMaxScore, filterState
+            filterMinScore, filterMaxScore, filterState, filterYear
         ];
         
         filters.forEach(filter => {
@@ -79,6 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const minVal = filterMinScore.value ? parseFloat(filterMinScore.value) : null;
         const maxVal = filterMaxScore.value ? parseFloat(filterMaxScore.value) : null;
         const stateVal = filterState.value.toLowerCase();
+        const yearVal = filterYear.value.toLowerCase();
 
         filteredData = cutoffData.filter(row => {
             const matchInst = row.institute.toLowerCase().includes(instVal);
@@ -87,8 +90,9 @@ document.addEventListener('DOMContentLoaded', () => {
             const matchMin = minVal !== null ? row.score_min >= minVal : true;
             const matchMax = maxVal !== null ? row.score_min <= maxVal : true;
             const matchState = row.state.toLowerCase().includes(stateVal);
+            const matchYear = row.year.toString().toLowerCase().includes(yearVal);
 
-            return matchInst && matchProg && matchRound && matchMin && matchMax && matchState;
+            return matchInst && matchProg && matchRound && matchMin && matchMax && matchState && matchYear;
         });
 
         // Re-apply current sort if any
@@ -127,7 +131,7 @@ document.addEventListener('DOMContentLoaded', () => {
             let valB = b[column];
 
             // Handle numeric comparison
-            if (column === 'score_min' || column === 'score_max' || column === 'round') {
+            if (column === 'score_min' || column === 'score_max' || column === 'round' || column === 'year') {
                 valA = parseFloat(valA);
                 valB = parseFloat(valB);
             } else {
