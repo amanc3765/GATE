@@ -43,5 +43,59 @@
     "score_max": 290,
     "state": "West Bengal",
     "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Microelectronics & VLSI",
+    "round": 1,
+    "score_min": 320,
+    "score_max": 340,
+    "state": "West Bengal",
+    "year": 2021
+  },
+  {
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Telecommunication Engineering",
+    "round": 1,
+    "score_min": 264,
+    "score_max": 288,
+    "state": "West Bengal",
+    "year": 2021
+  },
+  {
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Microelectronics & VLSI",
+    "round": 2,
+    "score_min": 298,
+    "score_max": 317,
+    "state": "West Bengal",
+    "year": 2021
+  },
+  {
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Telecommunication Engineering",
+    "round": 2,
+    "score_min": 264,
+    "score_max": 264,
+    "state": "West Bengal",
+    "year": 2021
+  },
+  {
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Telecommunication Engineering",
+    "round": 3,
+    "score_min": 264,
+    "score_max": 264,
+    "state": "West Bengal",
+    "year": 2021
+  },
+  {
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Microelectronics & VLSI",
+    "round": 3,
+    "score_min": 298,
+    "score_max": 317,
+    "state": "West Bengal",
+    "year": 2021
   }
 ]
