@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MTech Admission Cutoffs</title>
+    <meta name="description" content="View and filter MTech admission cutoff marks for various NITs.">
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+
+
+        <div class="filters-container">
+            <div class="filter-group">
+                <label for="filter-institute">Institute</label>
+                <input type="text" id="filter-institute" placeholder="Search Institute...">
+            </div>
+            <div class="filter-group">
+                <label for="filter-state">State</label>
+                <input type="text" id="filter-state" placeholder="Search State...">
+            </div>
+            <div class="filter-group">
+                <label for="filter-program">Program</label>
+                <input type="text" id="filter-program" placeholder="Search Program...">
+            </div>
+            <div class="filter-group">
+                <label for="filter-round">Round</label>
+                <select id="filter-round">
+                    <option value="">All Rounds</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="filter-min-score">Min Score</label>
+                <input type="number" id="filter-min-score" placeholder="Min...">
+            </div>
+            <div class="filter-group">
+                <label for="filter-max-score">Max Score</label>
+                <input type="number" id="filter-max-score" placeholder="Max...">
+            </div>
+        </div>
+
+        <div class="table-wrapper">
+            <table id="cutoff-table">
+                <thead>
+                    <tr>
+                        <th id="header-institute" class="sortable">Institute <span class="sort-icon">↕</span></th>
+                        <th id="header-state" class="sortable">State <span class="sort-icon">↕</span></th>
+                        <th id="header-program" class="sortable">Program <span class="sort-icon">↕</span></th>
+                        <th id="header-round" class="sortable">Round <span class="sort-icon">↕</span></th>
+                        <th id="header-min-score" class="sortable">Score Min <span class="sort-icon">↕</span></th>
+                        <th id="header-max-score" class="sortable">Score Max <span class="sort-icon">↕</span></th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <!-- Data rows will be inserted here by JavaScript -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
