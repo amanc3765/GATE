@@ -184,11 +184,11 @@ td {
 }
 
 #header-institute {
-    width: 30%;
+    min-width: 350px;
 }
 
 #header-program {
-    width: 30%;
+    min-width: 350px;
 }
 
 /* Responsive adjustments */

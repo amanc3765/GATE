@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const matchInst = row.institute.toLowerCase().includes(instVal);
             const matchProg = row.program.toLowerCase().includes(progVal);
             const matchRound = roundVal ? row.round.toString() === roundVal : true;
-            const matchMin = minVal !== null ? row.score_max >= minVal : true;
+            const matchMin = minVal !== null ? row.score_min >= minVal : true;
             const matchMax = maxVal !== null ? row.score_min <= maxVal : true;
             const matchState = row.state.toLowerCase().includes(stateVal);
 
