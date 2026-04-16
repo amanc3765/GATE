@@ -1,146 +1,47 @@
 [
   {
-    "institute": "National Institute of Technology, Rourkela",
-    "program": "Water Resources Engineering",
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Microelectronics & VLSI",
     "round": 1,
-    "score_min": 301,
-    "score_max": 322,
-    "state": "Odisha",
+    "score_min": 405,
+    "score_max": 425,
+    "state": "West Bengal",
     "year": 2024
   },
   {
-    "institute": "National Institute of Technology, Rourkela",
-    "program": "Computer Science",
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Next Generation Communication and Networks",
     "round": 1,
-    "score_min": 499,
-    "score_max": 519,
-    "state": "Odisha",
+    "score_min": 305,
+    "score_max": 315,
+    "state": "West Bengal",
     "year": 2024
   },
   {
-    "institute": "National Institute of Technology, Silchar",
-    "program": "CAD-CAM & Automation",
-    "round": 1,
-    "score_min": 350,
-    "score_max": 385,
-    "state": "Assam",
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Microelectronics & VLSI",
+    "round": 2,
+    "score_min": 390,
+    "score_max": 395,
+    "state": "West Bengal",
     "year": 2024
   },
   {
-    "institute": "National Institute of Technology, Silchar",
-    "program": "Instrumentation Engineering",
-    "round": 1,
-    "score_min": 320,
-    "score_max": 320,
-    "state": "Assam",
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Next Generation Communication and Networks",
+    "round": 2,
+    "score_min": 293,
+    "score_max": 293,
+    "state": "West Bengal",
     "year": 2024
   },
   {
-    "institute": "National Institute of Technology, Silchar",
-    "program": "Material & Manufacturing Technology",
-    "round": 1,
-    "score_min": 316,
-    "score_max": 316,
-    "state": "Assam",
-    "year": 2024
-  },
-  {
-    "institute": "National Institute of Technology, Silchar",
-    "program": "Data Science & Engineering",
-    "round": 1,
-    "score_min": 512,
-    "score_max": 551,
-    "state": "Assam",
-    "year": 2024
-  },
-  {
-    "institute": "National Institute of Technology, Silchar",
-    "program": "Communication & Signal Processing",
-    "round": 1,
-    "score_min": 300,
-    "score_max": 325,
-    "state": "Assam",
-    "year": 2024
-  },
-  {
-    "institute": "National Institute of Technology, Silchar",
-    "program": "Structural Engineering",
-    "round": 1,
-    "score_min": 370,
-    "score_max": 389,
-    "state": "Assam",
-    "year": 2024
-  },
-  {
-    "institute": "National Institute of Technology, Srinagar",
-    "program": "Electrical Power and Energy System",
-    "round": 1,
-    "score_min": 266,
-    "score_max": 266,
-    "state": "Jammu and Kashmir",
-    "year": 2024
-  },
-  {
-    "institute": "National Institute of Technology, Srinagar",
-    "program": "Power Electronics & Electrical Drives",
-    "round": 1,
-    "score_min": 323,
-    "score_max": 350,
-    "state": "Jammu and Kashmir",
-    "year": 2024
-  },
-  {
-    "institute": "National Institute of Technology, Srinagar",
-    "program": "Thermal Engineering",
-    "round": 1,
-    "score_min": 322,
-    "score_max": 322,
-    "state": "Jammu and Kashmir",
-    "year": 2024
-  },
-  {
-    "institute": "National Institute of Technology, Srinagar",
-    "program": "Water Resources Engineering",
-    "round": 1,
-    "score_min": 392,
-    "score_max": 424,
-    "state": "Jammu and Kashmir",
-    "year": 2024
-  },
-  {
-    "institute": "National Institute of Technology, Tiruchirappalli",
-    "program": "Chemical Engineering",
-    "round": 1,
-    "score_min": 511,
-    "score_max": 638,
-    "state": "Tamil Nadu",
-    "year": 2024
-  },
-  {
-    "institute": "National Institute of Technology, Tiruchirappalli",
-    "program": "Energy Engineering",
-    "round": 1,
-    "score_min": 455,
-    "score_max": 455,
-    "state": "Tamil Nadu",
-    "year": 2024
-  },
-  {
-    "institute": "National Institute of Technology, Tiruchirappalli",
-    "program": "Manufacturing Technology",
-    "round": 1,
-    "score_min": 481,
-    "score_max": 510,
-    "state": "Tamil Nadu",
-    "year": 2024
-  },
-  {
-    "institute": "National Institute of Technology, Tiruchirappalli",
-    "program": "Manufacturing Technology",
-    "round": 1,
-    "score_min": 437,
-    "score_max": 449,
-    "state": "Tamil Nadu",
+    "institute": "National Institute of Technology Durgapur",
+    "program": "Next Generation Communication and Networks",
+    "round": 3,
+    "score_min": 288,
+    "score_max": 290,
+    "state": "West Bengal",
     "year": 2024
   }
 ]
