@@ -313,5 +313,59 @@
     "score_max": 307,
     "state": "Jharkhand",
     "year": 2021
+  },
+  {
+    "institute": "National Institute of Technology, Jamshedpur",
+    "program": "Communication Systems Engineering",
+    "round": 1,
+    "score_min": 254,
+    "score_max": 275,
+    "state": "Jharkhand",
+    "year": 2022
+  },
+  {
+    "institute": "National Institute of Technology, Jamshedpur",
+    "program": "Embedded Systems Engineering",
+    "round": 1,
+    "score_min": 312,
+    "score_max": 313,
+    "state": "Jharkhand",
+    "year": 2022
+  },
+  {
+    "institute": "National Institute of Technology, Jamshedpur",
+    "program": "Communication Systems Engineering",
+    "round": 2,
+    "score_min": 263,
+    "score_max": 263,
+    "state": "Jharkhand",
+    "year": 2022
+  },
+  {
+    "institute": "National Institute of Technology, Jamshedpur",
+    "program": "Embedded Systems Engineering",
+    "round": 2,
+    "score_min": 312,
+    "score_max": 313,
+    "state": "Jharkhand",
+    "year": 2022
+  },
+  {
+    "institute": "National Institute of Technology, Jamshedpur",
+    "program": "Communication Systems Engineering",
+    "round": 3,
+    "score_min": 263,
+    "score_max": 263,
+    "state": "Jharkhand",
+    "year": 2022
+  },
+  {
+    "institute": "National Institute of Technology, Jamshedpur",
+    "program": "Embedded Systems Engineering",
+    "round": 3,
+    "score_min": 312,
+    "score_max": 313,
+    "state": "Jharkhand",
+    "year": 2022
   }
 ]
