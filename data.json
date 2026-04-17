@@ -1285,5 +1285,41 @@
     "score_max": 271,
     "state": "Assam",
     "year": 2024
+  },
+  {
+    "institute": "Visvesvaraya National Institute of Technology, Nagpur",
+    "program": "VLSI Design",
+    "round": 1,
+    "score_min": 370,
+    "score_max": 385,
+    "state": "Maharashtra",
+    "year": 2024
+  },
+  {
+    "institute": "Visvesvaraya National Institute of Technology, Nagpur",
+    "program": "Communication System Engineering",
+    "round": 1,
+    "score_min": 335,
+    "score_max": 340,
+    "state": "Maharashtra",
+    "year": 2024
+  },
+  {
+    "institute": "Visvesvaraya National Institute of Technology, Nagpur",
+    "program": "Communication System Engineering",
+    "round": 2,
+    "score_min": 315,
+    "score_max": 323,
+    "state": "Maharashtra",
+    "year": 2024
+  },
+  {
+    "institute": "Visvesvaraya National Institute of Technology, Nagpur",
+    "program": "VLSI Design",
+    "round": 2,
+    "score_min": 362,
+    "score_max": 362,
+    "state": "Maharashtra",
+    "year": 2024
   }
 ]
