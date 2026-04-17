@@ -558,69 +558,6 @@
     "year": 2025
   },
   {
-    "institute": "National Institute of Technology Karnataka, Surathkal",
-    "program": "Communication Engineering and Networks",
-    "round": 4,
-    "score_min": 354,
-    "score_max": 354,
-    "state": "Karnataka",
-    "year": 2025
-  },
-  {
-    "institute": "National Institute of Technology Karnataka, Surathkal",
-    "program": "Signal Processing and Machine Learning",
-    "round": 4,
-    "score_min": 335,
-    "score_max": 345,
-    "state": "Karnataka",
-    "year": 2025
-  },
-  {
-    "institute": "National Institute of Technology Karnataka, Surathkal",
-    "program": "VLSI Design",
-    "round": 4,
-    "score_min": 452,
-    "score_max": 475,
-    "state": "Karnataka",
-    "year": 2025
-  },
-  {
-    "institute": "National Institute of Technology Karnataka, Surathkal",
-    "program": "Signal Processing and Machine Learning",
-    "round": 5,
-    "score_min": 315,
-    "score_max": 435,
-    "state": "Karnataka",
-    "year": 2025
-  },
-  {
-    "institute": "National Institute of Technology Karnataka, Surathkal",
-    "program": "Communication Engineering and Networks",
-    "round": 5,
-    "score_min": 345,
-    "score_max": 345,
-    "state": "Karnataka",
-    "year": 2025
-  },
-  {
-    "institute": "National Institute of Technology Karnataka, Surathkal",
-    "program": "Communication Engineering and Networks",
-    "round": 6,
-    "score_min": 327,
-    "score_max": 327,
-    "state": "Karnataka",
-    "year": 2025
-  },
-  {
-    "institute": "National Institute of Technology Karnataka, Surathkal",
-    "program": "VLSI Design",
-    "round": 6,
-    "score_min": 370,
-    "score_max": 370,
-    "state": "Karnataka",
-    "year": 2025
-  },
-  {
     "institute": "National Institute of Technology, Warangal",
     "program": "Advanced Communication Systems",
     "round": 1,
@@ -698,51 +635,6 @@
     "round": 3,
     "score_min": 440,
     "score_max": 452,
-    "state": "Telangana",
-    "year": 2025
-  },
-  {
-    "institute": "National Institute of Technology, Warangal",
-    "program": "Advanced Communication Systems",
-    "round": 4,
-    "score_min": 323,
-    "score_max": 327,
-    "state": "Telangana",
-    "year": 2025
-  },
-  {
-    "institute": "National Institute of Technology, Warangal",
-    "program": "VLSI Systems Design",
-    "round": 4,
-    "score_min": 416,
-    "score_max": 434,
-    "state": "Telangana",
-    "year": 2025
-  },
-  {
-    "institute": "National Institute of Technology, Warangal",
-    "program": "Electronics and Communication Engineering - Embedded & Machine Learning Systems (EMLS)",
-    "round": 4,
-    "score_min": 362,
-    "score_max": 362,
-    "state": "Telangana",
-    "year": 2025
-  },
-  {
-    "institute": "National Institute of Technology, Warangal",
-    "program": "Electronics and Communication Engineering - Embedded & Machine Learning Systems (EMLS)",
-    "round": 5,
-    "score_min": 362,
-    "score_max": 362,
-    "state": "Telangana",
-    "year": 2025
-  },
-  {
-    "institute": "National Institute of Technology, Warangal",
-    "program": "Advanced Communication Systems",
-    "round": 6,
-    "score_min": 355,
-    "score_max": 355,
     "state": "Telangana",
     "year": 2025
   }
