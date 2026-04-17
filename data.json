@@ -1465,5 +1465,59 @@
     "score_max": 340,
     "state": "Punjab",
     "year": 2024
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "program": "Microelectronics & VLSI Design",
+    "round": 1,
+    "score_min": 410,
+    "score_max": 429,
+    "state": "Uttar Pradesh",
+    "year": 2024
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "program": "Communication Systems",
+    "round": 1,
+    "score_min": 330,
+    "score_max": 405,
+    "state": "Uttar Pradesh",
+    "year": 2024
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "program": "Signal Processing",
+    "round": 1,
+    "score_min": 335,
+    "score_max": 336,
+    "state": "Uttar Pradesh",
+    "year": 2024
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "program": "Communication Systems",
+    "round": 2,
+    "score_min": 330,
+    "score_max": 330,
+    "state": "Uttar Pradesh",
+    "year": 2024
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "program": "Microelectronics & VLSI Design",
+    "round": 2,
+    "score_min": 385,
+    "score_max": 400,
+    "state": "Uttar Pradesh",
+    "year": 2024
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "program": "Signal Processing",
+    "round": 3,
+    "score_min": 308,
+    "score_max": 308,
+    "state": "Uttar Pradesh",
+    "year": 2024
   }
 ]
