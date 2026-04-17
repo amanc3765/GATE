@@ -2068,5 +2068,41 @@
     "score_max": 286,
     "state": "Uttarakhand",
     "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Uttarakhand",
+    "program": "Microelectronics & VLSI Design",
+    "round": 1,
+    "score_min": 311,
+    "score_max": 315,
+    "state": "Uttarakhand",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Uttarakhand",
+    "program": "Signal Processing and Communication System",
+    "round": 1,
+    "score_min": 291,
+    "score_max": 291,
+    "state": "Uttarakhand",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Uttarakhand",
+    "program": "Signal Processing and Communication System",
+    "round": 2,
+    "score_min": 280,
+    "score_max": 280,
+    "state": "Uttarakhand",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Uttarakhand",
+    "program": "Microelectronics & VLSI Design",
+    "round": 2,
+    "score_min": 291,
+    "score_max": 311,
+    "state": "Uttarakhand",
+    "year": 2025
   }
 ]
