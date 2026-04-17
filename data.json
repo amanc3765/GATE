@@ -637,5 +637,77 @@
     "score_max": 452,
     "state": "Telangana",
     "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Signal Processing and Machine Learning",
+    "round": 1,
+    "score_min": 459,
+    "score_max": 467,
+    "state": "Karnataka",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Communication Engineering and Networks",
+    "round": 1,
+    "score_min": 375,
+    "score_max": 400,
+    "state": "Karnataka",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "VLSI Design",
+    "round": 1,
+    "score_min": 454,
+    "score_max": 504,
+    "state": "Karnataka",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Communication Engineering and Networks",
+    "round": 2,
+    "score_min": 360,
+    "score_max": 375,
+    "state": "Karnataka",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Signal Processing and Machine Learning",
+    "round": 2,
+    "score_min": 440,
+    "score_max": 447,
+    "state": "Karnataka",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "VLSI Design",
+    "round": 2,
+    "score_min": 420,
+    "score_max": 454,
+    "state": "Karnataka",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Communication Engineering and Networks",
+    "round": 3,
+    "score_min": 360,
+    "score_max": 360,
+    "state": "Karnataka",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Signal Processing and Machine Learning",
+    "round": 3,
+    "score_min": 434,
+    "score_max": 434,
+    "state": "Karnataka",
+    "year": 2024
   }
 ]
