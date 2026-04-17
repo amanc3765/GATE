@@ -48,168 +48,6 @@
     "institute": "National Institute of Technology Durgapur",
     "program": "Microelectronics & VLSI",
     "round": 1,
-    "score_min": 320,
-    "score_max": 340,
-    "state": "West Bengal",
-    "year": 2021
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Telecommunication Engineering",
-    "round": 1,
-    "score_min": 264,
-    "score_max": 288,
-    "state": "West Bengal",
-    "year": 2021
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Microelectronics & VLSI",
-    "round": 2,
-    "score_min": 298,
-    "score_max": 317,
-    "state": "West Bengal",
-    "year": 2021
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Telecommunication Engineering",
-    "round": 2,
-    "score_min": 264,
-    "score_max": 264,
-    "state": "West Bengal",
-    "year": 2021
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Telecommunication Engineering",
-    "round": 3,
-    "score_min": 264,
-    "score_max": 264,
-    "state": "West Bengal",
-    "year": 2021
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Microelectronics & VLSI",
-    "round": 3,
-    "score_min": 298,
-    "score_max": 317,
-    "state": "West Bengal",
-    "year": 2021
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Microelectronics & VLSI",
-    "round": 1,
-    "score_min": 350,
-    "score_max": 400,
-    "state": "West Bengal",
-    "year": 2022
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Next Generation Communication and Networks",
-    "round": 1,
-    "score_min": 292,
-    "score_max": 292,
-    "state": "West Bengal",
-    "year": 2022
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Microelectronics & VLSI",
-    "round": 2,
-    "score_min": 342,
-    "score_max": 400,
-    "state": "West Bengal",
-    "year": 2022
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Next Generation Communication and Networks",
-    "round": 2,
-    "score_min": 236,
-    "score_max": 292,
-    "state": "West Bengal",
-    "year": 2022
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Microelectronics & VLSI",
-    "round": 3,
-    "score_min": 342,
-    "score_max": 400,
-    "state": "West Bengal",
-    "year": 2022
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Next Generation Communication and Networks",
-    "round": 3,
-    "score_min": 267,
-    "score_max": 292,
-    "state": "West Bengal",
-    "year": 2022
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Next Generation Communication and Networks",
-    "round": 1,
-    "score_min": 231,
-    "score_max": 235,
-    "state": "West Bengal",
-    "year": 2023
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Microelectronics & VLSI",
-    "round": 1,
-    "score_min": 330,
-    "score_max": 364,
-    "state": "West Bengal",
-    "year": 2023
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Next Generation Communication and Networks",
-    "round": 2,
-    "score_min": 231,
-    "score_max": 235,
-    "state": "West Bengal",
-    "year": 2023
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Microelectronics & VLSI",
-    "round": 2,
-    "score_min": 330,
-    "score_max": 364,
-    "state": "West Bengal",
-    "year": 2023
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Microelectronics & VLSI",
-    "round": 3,
-    "score_min": 300,
-    "score_max": 339,
-    "state": "West Bengal",
-    "year": 2023
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Next Generation Communication and Networks",
-    "round": 3,
-    "score_min": 231,
-    "score_max": 235,
-    "state": "West Bengal",
-    "year": 2023
-  },
-  {
-    "institute": "National Institute of Technology Durgapur",
-    "program": "Microelectronics & VLSI",
-    "round": 1,
     "score_min": 440,
     "score_max": 448,
     "state": "West Bengal",
@@ -259,141 +97,6 @@
     "score_max": 303,
     "state": "West Bengal",
     "year": 2025
-  },
-  {
-    "institute": "National Institute of Technology, Jamshedpur",
-    "program": "Communication Systems Engineering",
-    "round": 1,
-    "score_min": 231,
-    "score_max": 231,
-    "state": "Jharkhand",
-    "year": 2021
-  },
-  {
-    "institute": "National Institute of Technology, Jamshedpur",
-    "program": "Embedded Systems Engineering",
-    "round": 1,
-    "score_min": 269,
-    "score_max": 307,
-    "state": "Jharkhand",
-    "year": 2021
-  },
-  {
-    "institute": "National Institute of Technology, Jamshedpur",
-    "program": "Communication Systems Engineering",
-    "round": 2,
-    "score_min": 231,
-    "score_max": 231,
-    "state": "Jharkhand",
-    "year": 2021
-  },
-  {
-    "institute": "National Institute of Technology, Jamshedpur",
-    "program": "Embedded Systems Engineering",
-    "round": 2,
-    "score_min": 250,
-    "score_max": 307,
-    "state": "Jharkhand",
-    "year": 2021
-  },
-  {
-    "institute": "National Institute of Technology, Jamshedpur",
-    "program": "Communication Systems Engineering",
-    "round": 3,
-    "score_min": 231,
-    "score_max": 231,
-    "state": "Jharkhand",
-    "year": 2021
-  },
-  {
-    "institute": "National Institute of Technology, Jamshedpur",
-    "program": "Embedded Systems Engineering",
-    "round": 3,
-    "score_min": 245,
-    "score_max": 307,
-    "state": "Jharkhand",
-    "year": 2021
-  },
-  {
-    "institute": "National Institute of Technology, Jamshedpur",
-    "program": "Communication Systems Engineering",
-    "round": 1,
-    "score_min": 254,
-    "score_max": 275,
-    "state": "Jharkhand",
-    "year": 2022
-  },
-  {
-    "institute": "National Institute of Technology, Jamshedpur",
-    "program": "Embedded Systems Engineering",
-    "round": 1,
-    "score_min": 312,
-    "score_max": 313,
-    "state": "Jharkhand",
-    "year": 2022
-  },
-  {
-    "institute": "National Institute of Technology, Jamshedpur",
-    "program": "Communication Systems Engineering",
-    "round": 2,
-    "score_min": 263,
-    "score_max": 263,
-    "state": "Jharkhand",
-    "year": 2022
-  },
-  {
-    "institute": "National Institute of Technology, Jamshedpur",
-    "program": "Embedded Systems Engineering",
-    "round": 2,
-    "score_min": 312,
-    "score_max": 313,
-    "state": "Jharkhand",
-    "year": 2022
-  },
-  {
-    "institute": "National Institute of Technology, Jamshedpur",
-    "program": "Communication Systems Engineering",
-    "round": 3,
-    "score_min": 263,
-    "score_max": 263,
-    "state": "Jharkhand",
-    "year": 2022
-  },
-  {
-    "institute": "National Institute of Technology, Jamshedpur",
-    "program": "Embedded Systems Engineering",
-    "round": 3,
-    "score_min": 312,
-    "score_max": 313,
-    "state": "Jharkhand",
-    "year": 2022
-  },
-  {
-    "institute": "National Institute of Technology, Jamshedpur",
-    "program": "Embedded Systems Engineering",
-    "round": 1,
-    "score_min": 264,
-    "score_max": 273,
-    "state": "Jharkhand",
-    "year": 2023
-  },
-  {
-    "institute": "National Institute of Technology, Jamshedpur",
-    "program": "Communication Systems Engineering",
-    "round": 1,
-    "score_min": 260,
-    "score_max": 260,
-    "state": "Jharkhand",
-    "year": 2023
-  },
-  {
-    "institute": "National Institute of Technology, Jamshedpur",
-    "program": "Embedded Systems Engineering",
-    "round": 2,
-    "score_min": 260,
-    "score_max": 260,
-    "state": "Jharkhand",
-    "year": 2023
   },
   {
     "institute": "National Institute of Technology, Jamshedpur",
@@ -772,5 +475,86 @@
     "score_max": 385,
     "state": "Telangana",
     "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology, Tiruchirappalli",
+    "program": "Communication Systems",
+    "round": 1,
+    "score_min": 405,
+    "score_max": 454,
+    "state": "Tamil Nadu",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology, Tiruchirappalli",
+    "program": "VLSI System",
+    "round": 1,
+    "score_min": 514,
+    "score_max": 595,
+    "state": "Tamil Nadu",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology, Tiruchirappalli",
+    "program": "Communication Systems",
+    "round": 2,
+    "score_min": 375,
+    "score_max": 375,
+    "state": "Tamil Nadu",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology, Tiruchirappalli",
+    "program": "VLSI System",
+    "round": 2,
+    "score_min": 445,
+    "score_max": 474,
+    "state": "Tamil Nadu",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology, Tiruchirappalli",
+    "program": "Communication Systems",
+    "round": 1,
+    "score_min": 397,
+    "score_max": 420,
+    "state": "Tamil Nadu",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Tiruchirappalli",
+    "program": "VLSI System",
+    "round": 1,
+    "score_min": 538,
+    "score_max": 582,
+    "state": "Tamil Nadu",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Tiruchirappalli",
+    "program": "Communication Systems",
+    "round": 2,
+    "score_min": 385,
+    "score_max": 393,
+    "state": "Tamil Nadu",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Tiruchirappalli",
+    "program": "VLSI System",
+    "round": 2,
+    "score_min": 541,
+    "score_max": 541,
+    "state": "Tamil Nadu",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Tiruchirappalli",
+    "program": "VLSI System",
+    "round": 3,
+    "score_min": 510,
+    "score_max": 523,
+    "state": "Tamil Nadu",
+    "year": 2025
   }
 ]
