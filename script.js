@@ -31,6 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
         data.forEach(row => {
             const tr = document.createElement('tr');
             tr.innerHTML = `
+                <td>${row.rank || ''}</td>
                 <td>${row.institute}</td>
                 <td>${row.state}</td>
                 <td>${row.program}</td>
@@ -131,7 +132,7 @@ document.addEventListener('DOMContentLoaded', () => {
             let valB = b[column];
 
             // Handle numeric comparison
-            if (column === 'score_min' || column === 'score_max' || column === 'round' || column === 'year') {
+            if (column === 'score_min' || column === 'score_max' || column === 'round' || column === 'year' || column === 'rank') {
                 valA = parseFloat(valA);
                 valB = parseFloat(valB);
             } else {
