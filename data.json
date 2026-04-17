@@ -1132,5 +1132,77 @@
     "score_max": 389,
     "state": "Rajasthan",
     "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Silchar",
+    "program": "Microelectronics & VLSI Design",
+    "round": 1,
+    "score_min": 370,
+    "score_max": 476,
+    "state": "Assam",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Silchar",
+    "program": "RF and Terahertz Communications",
+    "round": 1,
+    "score_min": 280,
+    "score_max": 300,
+    "state": "Assam",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Silchar",
+    "program": "Communication & Signal Processing",
+    "round": 1,
+    "score_min": 300,
+    "score_max": 354,
+    "state": "Assam",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Silchar",
+    "program": "Microelectronics & VLSI Design",
+    "round": 2,
+    "score_min": 315,
+    "score_max": 357,
+    "state": "Assam",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Silchar",
+    "program": "RF and Terahertz Communications",
+    "round": 2,
+    "score_min": 255,
+    "score_max": 273,
+    "state": "Assam",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Silchar",
+    "program": "Communication & Signal Processing",
+    "round": 2,
+    "score_min": 291,
+    "score_max": 300,
+    "state": "Assam",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Silchar",
+    "program": "Microelectronics & VLSI Design",
+    "round": 3,
+    "score_min": 307,
+    "score_max": 311,
+    "state": "Assam",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Silchar",
+    "program": "RF and Terahertz Communications",
+    "round": 3,
+    "score_min": 251,
+    "score_max": 251,
+    "state": "Assam",
+    "year": 2025
   }
 ]
