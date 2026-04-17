@@ -682,5 +682,140 @@
     "score_max": 315,
     "state": "Odisha",
     "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology, Rourkela",
+    "program": "RF and Microwave systems",
+    "round": 1,
+    "score_min": 330,
+    "score_max": 362,
+    "state": "Odisha",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Rourkela",
+    "program": "Electronic Systems & Communication",
+    "round": 1,
+    "score_min": 362,
+    "score_max": 463,
+    "state": "Odisha",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Rourkela",
+    "program": "Electronics and Instrumentation Engineering",
+    "round": 1,
+    "score_min": 351,
+    "score_max": 420,
+    "state": "Odisha",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Rourkela",
+    "program": "VLSI Design & Embedded Systems",
+    "round": 1,
+    "score_min": 480,
+    "score_max": 526,
+    "state": "Odisha",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Rourkela",
+    "program": "Signal & Image Processing",
+    "round": 1,
+    "score_min": 411,
+    "score_max": 475,
+    "state": "Odisha",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Rourkela",
+    "program": "Communication & Networks",
+    "round": 1,
+    "score_min": 401,
+    "score_max": 428,
+    "state": "Odisha",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Rourkela",
+    "program": "Communication & Networks",
+    "round": 2,
+    "score_min": 387,
+    "score_max": 393,
+    "state": "Odisha",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Rourkela",
+    "program": "Electronic Systems & Communication",
+    "round": 2,
+    "score_min": 334,
+    "score_max": 354,
+    "state": "Odisha",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Rourkela",
+    "program": "Electronics and Instrumentation Engineering",
+    "round": 2,
+    "score_min": 327,
+    "score_max": 345,
+    "state": "Odisha",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Rourkela",
+    "program": "Signal & Image Processing",
+    "round": 2,
+    "score_min": 389,
+    "score_max": 389,
+    "state": "Odisha",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Rourkela",
+    "program": "VLSI Design & Embedded Systems",
+    "round": 2,
+    "score_min": 441,
+    "score_max": 472,
+    "state": "Odisha",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Rourkela",
+    "program": "RF and Microwave systems",
+    "round": 2,
+    "score_min": 315,
+    "score_max": 330,
+    "state": "Odisha",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Rourkela",
+    "program": "Communication & Networks",
+    "round": 3,
+    "score_min": 330,
+    "score_max": 334,
+    "state": "Odisha",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Rourkela",
+    "program": "Electronic Systems & Communication",
+    "round": 3,
+    "score_min": 327,
+    "score_max": 327,
+    "state": "Odisha",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Rourkela",
+    "program": "VLSI Design & Embedded Systems",
+    "round": 3,
+    "score_min": 428,
+    "score_max": 438,
+    "state": "Odisha",
+    "year": 2025
   }
 ]
