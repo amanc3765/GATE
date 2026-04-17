@@ -1411,5 +1411,59 @@
     "score_max": 284,
     "state": "Punjab",
     "year": 2025
+  },
+  {
+    "institute": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+    "program": "Signal Processing and Machine Learning",
+    "round": 1,
+    "score_min": 300,
+    "score_max": 355,
+    "state": "Punjab",
+    "year": 2024
+  },
+  {
+    "institute": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+    "program": "VLSI Design",
+    "round": 1,
+    "score_min": 350,
+    "score_max": 380,
+    "state": "Punjab",
+    "year": 2024
+  },
+  {
+    "institute": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+    "program": "Signal Processing and Machine Learning",
+    "round": 2,
+    "score_min": 293,
+    "score_max": 293,
+    "state": "Punjab",
+    "year": 2024
+  },
+  {
+    "institute": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+    "program": "VLSI Design",
+    "round": 2,
+    "score_min": 340,
+    "score_max": 350,
+    "state": "Punjab",
+    "year": 2024
+  },
+  {
+    "institute": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+    "program": "Signal Processing and Machine Learning",
+    "round": 3,
+    "score_min": 279,
+    "score_max": 289,
+    "state": "Punjab",
+    "year": 2024
+  },
+  {
+    "institute": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+    "program": "VLSI Design",
+    "round": 3,
+    "score_min": 340,
+    "score_max": 340,
+    "state": "Punjab",
+    "year": 2024
   }
 ]
