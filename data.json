@@ -1681,5 +1681,41 @@
     "score_max": 401,
     "state": "Delhi",
     "year": 2025
+  },
+  {
+    "institute": "Maulana Azad National Institute of Technology Bhopal",
+    "program": "Communication Systems",
+    "round": 1,
+    "score_min": 300,
+    "score_max": 305,
+    "state": "Madhya Pradesh",
+    "year": 2025
+  },
+  {
+    "institute": "Maulana Azad National Institute of Technology Bhopal",
+    "program": "VLSI Design & Embedded Systems",
+    "round": 1,
+    "score_min": 345,
+    "score_max": 354,
+    "state": "Madhya Pradesh",
+    "year": 2025
+  },
+  {
+    "institute": "Maulana Azad National Institute of Technology Bhopal",
+    "program": "Communication Systems",
+    "round": 2,
+    "score_min": 280,
+    "score_max": 280,
+    "state": "Madhya Pradesh",
+    "year": 2025
+  },
+  {
+    "institute": "Maulana Azad National Institute of Technology Bhopal",
+    "program": "VLSI Design & Embedded Systems",
+    "round": 2,
+    "score_min": 327,
+    "score_max": 327,
+    "state": "Madhya Pradesh",
+    "year": 2025
   }
 ]
