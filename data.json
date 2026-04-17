@@ -484,5 +484,140 @@
     "score_max": 323,
     "state": "Jharkhand",
     "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Signal Processing and Machine Learning",
+    "round": 1,
+    "score_min": 366,
+    "score_max": 543,
+    "state": "Karnataka",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "VLSI Design",
+    "round": 1,
+    "score_min": 510,
+    "score_max": 634,
+    "state": "Karnataka",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Communication Engineering and Networks",
+    "round": 1,
+    "score_min": 377,
+    "score_max": 393,
+    "state": "Karnataka",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Communication Engineering and Networks",
+    "round": 2,
+    "score_min": 350,
+    "score_max": 370,
+    "state": "Karnataka",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Signal Processing and Machine Learning",
+    "round": 2,
+    "score_min": 362,
+    "score_max": 481,
+    "state": "Karnataka",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "VLSI Design",
+    "round": 2,
+    "score_min": 494,
+    "score_max": 523,
+    "state": "Karnataka",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Communication Engineering and Networks",
+    "round": 3,
+    "score_min": 346,
+    "score_max": 350,
+    "state": "Karnataka",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "VLSI Design",
+    "round": 3,
+    "score_min": 467,
+    "score_max": 495,
+    "state": "Karnataka",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Communication Engineering and Networks",
+    "round": 4,
+    "score_min": 354,
+    "score_max": 354,
+    "state": "Karnataka",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Signal Processing and Machine Learning",
+    "round": 4,
+    "score_min": 335,
+    "score_max": 345,
+    "state": "Karnataka",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "VLSI Design",
+    "round": 4,
+    "score_min": 452,
+    "score_max": 475,
+    "state": "Karnataka",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Signal Processing and Machine Learning",
+    "round": 5,
+    "score_min": 315,
+    "score_max": 435,
+    "state": "Karnataka",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Communication Engineering and Networks",
+    "round": 5,
+    "score_min": 345,
+    "score_max": 345,
+    "state": "Karnataka",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "Communication Engineering and Networks",
+    "round": 6,
+    "score_min": 327,
+    "score_max": 327,
+    "state": "Karnataka",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "program": "VLSI Design",
+    "round": 6,
+    "score_min": 370,
+    "score_max": 370,
+    "state": "Karnataka",
+    "year": 2025
   }
 ]
