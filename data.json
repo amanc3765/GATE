@@ -1915,5 +1915,50 @@
     "score_max": 335,
     "state": "Gujarat",
     "year": 2024
+  },
+  {
+    "institute": "Sardar Vallabhbhai National Institute of Technology, Surat",
+    "program": "VLSI & Embedded Systems",
+    "round": 1,
+    "score_min": 375,
+    "score_max": 389,
+    "state": "Gujarat",
+    "year": 2025
+  },
+  {
+    "institute": "Sardar Vallabhbhai National Institute of Technology, Surat",
+    "program": "Communication System",
+    "round": 1,
+    "score_min": 319,
+    "score_max": 323,
+    "state": "Gujarat",
+    "year": 2025
+  },
+  {
+    "institute": "Sardar Vallabhbhai National Institute of Technology, Surat",
+    "program": "Communication System",
+    "round": 2,
+    "score_min": 299,
+    "score_max": 310,
+    "state": "Gujarat",
+    "year": 2025
+  },
+  {
+    "institute": "Sardar Vallabhbhai National Institute of Technology, Surat",
+    "program": "VLSI & Embedded Systems",
+    "round": 2,
+    "score_min": 370,
+    "score_max": 370,
+    "state": "Gujarat",
+    "year": 2025
+  },
+  {
+    "institute": "Sardar Vallabhbhai National Institute of Technology, Surat",
+    "program": "Communication System",
+    "round": 3,
+    "score_min": 280,
+    "score_max": 280,
+    "state": "Gujarat",
+    "year": 2025
   }
 ]
