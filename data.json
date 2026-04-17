@@ -1663,5 +1663,23 @@
     "score_max": 290,
     "state": "Madhya Pradesh",
     "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Delhi",
+    "program": "Electronics and Communication Engineering",
+    "round": 1,
+    "score_min": 393,
+    "score_max": 393,
+    "state": "Delhi",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Delhi",
+    "program": "Electronics and Communication Engineering with specialisation in VLSI",
+    "round": 1,
+    "score_min": 401,
+    "score_max": 401,
+    "state": "Delhi",
+    "year": 2025
   }
 ]
