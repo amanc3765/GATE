@@ -2041,5 +2041,32 @@
     "score_max": 318,
     "state": "Chhattisgarh",
     "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Uttarakhand",
+    "program": "Microelectronics & VLSI Design",
+    "round": 1,
+    "score_min": 315,
+    "score_max": 398,
+    "state": "Uttarakhand",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Uttarakhand",
+    "program": "Microelectronics & VLSI Design",
+    "round": 2,
+    "score_min": 290,
+    "score_max": 300,
+    "state": "Uttarakhand",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Uttarakhand",
+    "program": "Microelectronics & VLSI Design",
+    "round": 3,
+    "score_min": 286,
+    "score_max": 286,
+    "state": "Uttarakhand",
+    "year": 2024
   }
 ]
