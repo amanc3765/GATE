@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const filterYear = document.getElementById('filter-year');
 
     // Fetch data
-    fetch('data.json')
+    fetch('data.json?t=' + new Date().getTime())
         .then(response => response.json())
         .then(data => {
             cutoffData = data;
