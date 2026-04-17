@@ -1519,5 +1519,77 @@
     "score_max": 308,
     "state": "Uttar Pradesh",
     "year": 2024
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "program": "Signal Processing",
+    "round": 1,
+    "score_min": 370,
+    "score_max": 400,
+    "state": "Uttar Pradesh",
+    "year": 2025
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "program": "Microelectronics & VLSI Design",
+    "round": 1,
+    "score_min": 436,
+    "score_max": 452,
+    "state": "Uttar Pradesh",
+    "year": 2025
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "program": "Communication Systems",
+    "round": 1,
+    "score_min": 354,
+    "score_max": 358,
+    "state": "Uttar Pradesh",
+    "year": 2025
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "program": "Communication Systems",
+    "round": 2,
+    "score_min": 327,
+    "score_max": 330,
+    "state": "Uttar Pradesh",
+    "year": 2025
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "program": "Microelectronics & VLSI Design",
+    "round": 2,
+    "score_min": 416,
+    "score_max": 432,
+    "state": "Uttar Pradesh",
+    "year": 2025
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "program": "Signal Processing",
+    "round": 2,
+    "score_min": 326,
+    "score_max": 326,
+    "state": "Uttar Pradesh",
+    "year": 2025
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "program": "Microelectronics & VLSI Design",
+    "round": 3,
+    "score_min": 405,
+    "score_max": 405,
+    "state": "Uttar Pradesh",
+    "year": 2025
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "program": "Signal Processing",
+    "round": 3,
+    "score_min": 323,
+    "score_max": 323,
+    "state": "Uttar Pradesh",
+    "year": 2025
   }
 ]
