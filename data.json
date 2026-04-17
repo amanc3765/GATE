@@ -1069,5 +1069,68 @@
     "score_max": 325,
     "state": "Rajasthan",
     "year": 2024
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "VLSI Design",
+    "round": 1,
+    "score_min": 405,
+    "score_max": 424,
+    "state": "Rajasthan",
+    "year": 2025
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "Embedded Systems",
+    "round": 1,
+    "score_min": 338,
+    "score_max": 460,
+    "state": "Rajasthan",
+    "year": 2025
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "Electronics and Communication Engineering",
+    "round": 1,
+    "score_min": 319,
+    "score_max": 327,
+    "state": "Rajasthan",
+    "year": 2025
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "Embedded Systems",
+    "round": 2,
+    "score_min": 327,
+    "score_max": 327,
+    "state": "Rajasthan",
+    "year": 2025
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "Electronics and Communication Engineering",
+    "round": 2,
+    "score_min": 307,
+    "score_max": 307,
+    "state": "Rajasthan",
+    "year": 2025
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "VLSI Design",
+    "round": 2,
+    "score_min": 397,
+    "score_max": 405,
+    "state": "Rajasthan",
+    "year": 2025
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "VLSI Design",
+    "round": 3,
+    "score_min": 389,
+    "score_max": 389,
+    "state": "Rajasthan",
+    "year": 2025
   }
 ]
