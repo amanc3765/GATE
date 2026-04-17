@@ -1789,5 +1789,77 @@
     "score_max": 345,
     "state": "Haryana",
     "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology, Kurukshetra",
+    "program": "VLSI Design",
+    "round": 1,
+    "score_min": 397,
+    "score_max": 440,
+    "state": "Haryana",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Kurukshetra",
+    "program": "Communication Systems",
+    "round": 1,
+    "score_min": 327,
+    "score_max": 338,
+    "state": "Haryana",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Kurukshetra",
+    "program": "Embedded System Design",
+    "round": 1,
+    "score_min": 354,
+    "score_max": 365,
+    "state": "Haryana",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Kurukshetra",
+    "program": "Communication Systems",
+    "round": 2,
+    "score_min": 307,
+    "score_max": 307,
+    "state": "Haryana",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Kurukshetra",
+    "program": "Embedded System Design",
+    "round": 2,
+    "score_min": 323,
+    "score_max": 327,
+    "state": "Haryana",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Kurukshetra",
+    "program": "VLSI Design",
+    "round": 2,
+    "score_min": 381,
+    "score_max": 389,
+    "state": "Haryana",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Kurukshetra",
+    "program": "Embedded System Design",
+    "round": 3,
+    "score_min": 307,
+    "score_max": 315,
+    "state": "Haryana",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology, Kurukshetra",
+    "program": "VLSI Design",
+    "round": 3,
+    "score_min": 380,
+    "score_max": 380,
+    "state": "Haryana",
+    "year": 2025
   }
 ]
