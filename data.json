@@ -889,5 +889,104 @@
     "score_max": 340,
     "state": "Kerala",
     "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "program": "Signal Processing",
+    "round": 1,
+    "score_min": 362,
+    "score_max": 400,
+    "state": "Kerala",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "program": "Electronics Design & Technology",
+    "round": 1,
+    "score_min": 428,
+    "score_max": 456,
+    "state": "Kerala",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "program": "Microelectronics & VLSI Design",
+    "round": 1,
+    "score_min": 475,
+    "score_max": 491,
+    "state": "Kerala",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "program": "Telecommunication",
+    "round": 1,
+    "score_min": 354,
+    "score_max": 358,
+    "state": "Kerala",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "program": "Electronics Design & Technology",
+    "round": 2,
+    "score_min": 400,
+    "score_max": 405,
+    "state": "Kerala",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "program": "Microelectronics & VLSI Design",
+    "round": 2,
+    "score_min": 424,
+    "score_max": 428,
+    "state": "Kerala",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "program": "Signal Processing",
+    "round": 2,
+    "score_min": 342,
+    "score_max": 342,
+    "state": "Kerala",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "program": "Telecommunication",
+    "round": 2,
+    "score_min": 338,
+    "score_max": 350,
+    "state": "Kerala",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "program": "Electronics Design & Technology",
+    "round": 3,
+    "score_min": 397,
+    "score_max": 397,
+    "state": "Kerala",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "program": "Signal Processing",
+    "round": 3,
+    "score_min": 338,
+    "score_max": 338,
+    "state": "Kerala",
+    "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "program": "Telecommunication",
+    "round": 3,
+    "score_min": 327,
+    "score_max": 327,
+    "state": "Kerala",
+    "year": 2025
   }
 ]
