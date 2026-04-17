@@ -988,5 +988,86 @@
     "score_max": 327,
     "state": "Kerala",
     "year": 2025
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "VLSI Design",
+    "round": 1,
+    "score_min": 385,
+    "score_max": 400,
+    "state": "Rajasthan",
+    "year": 2024
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "Embedded Systems",
+    "round": 1,
+    "score_min": 329,
+    "score_max": 439,
+    "state": "Rajasthan",
+    "year": 2024
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "Wireless & Optical Communication",
+    "round": 1,
+    "score_min": 305,
+    "score_max": 320,
+    "state": "Rajasthan",
+    "year": 2024
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "Electronics and Communication Engineering",
+    "round": 1,
+    "score_min": 330,
+    "score_max": 340,
+    "state": "Rajasthan",
+    "year": 2024
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "Embedded Systems",
+    "round": 2,
+    "score_min": 325,
+    "score_max": 325,
+    "state": "Rajasthan",
+    "year": 2024
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "Electronics and Communication Engineering",
+    "round": 2,
+    "score_min": 295,
+    "score_max": 305,
+    "state": "Rajasthan",
+    "year": 2024
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "VLSI Design",
+    "round": 2,
+    "score_min": 360,
+    "score_max": 383,
+    "state": "Rajasthan",
+    "year": 2024
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "Wireless & Optical Communication",
+    "round": 2,
+    "score_min": 295,
+    "score_max": 300,
+    "state": "Rajasthan",
+    "year": 2024
+  },
+  {
+    "institute": "Malaviya National Institute of Technology Jaipur",
+    "program": "Embedded Systems",
+    "round": 3,
+    "score_min": 325,
+    "score_max": 325,
+    "state": "Rajasthan",
+    "year": 2024
   }
 ]
