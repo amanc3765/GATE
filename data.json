@@ -1960,5 +1960,59 @@
     "score_max": 280,
     "state": "Gujarat",
     "year": 2025
+  },
+  {
+    "institute": "National Institute of Technology Raipur",
+    "program": "VLSI & Embedded Systems",
+    "round": 1,
+    "score_min": 320,
+    "score_max": 320,
+    "state": "Chhattisgarh",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Raipur",
+    "program": "VLSI & Embedded Systems",
+    "round": 1,
+    "score_min": 325,
+    "score_max": 350,
+    "state": "Chhattisgarh",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Raipur",
+    "program": "VLSI & Embedded Systems",
+    "round": 2,
+    "score_min": 310,
+    "score_max": 315,
+    "state": "Chhattisgarh",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Raipur",
+    "program": "VLSI & Embedded Systems",
+    "round": 2,
+    "score_min": 310,
+    "score_max": 310,
+    "state": "Chhattisgarh",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Raipur",
+    "program": "VLSI & Embedded Systems",
+    "round": 3,
+    "score_min": 306,
+    "score_max": 306,
+    "state": "Chhattisgarh",
+    "year": 2024
+  },
+  {
+    "institute": "National Institute of Technology Raipur",
+    "program": "VLSI & Embedded Systems",
+    "round": 3,
+    "score_min": 305,
+    "score_max": 305,
+    "state": "Chhattisgarh",
+    "year": 2024
   }
 ]
